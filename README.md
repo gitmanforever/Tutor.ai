@@ -1,4 +1,4 @@
-# (Tutor.ai: AI-Powered Learning Assistant for Neurodivergent Students){https://youtu.be/xPM26ghd1H4}
+# Tutor.ai: AI-Powered Learning Assistant for Neurodivergent Students
 
 ## 🧠 The Problem: Learning Gaps for Neurodivergent Students
 
