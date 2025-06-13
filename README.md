@@ -139,7 +139,7 @@ Our approach is grounded in research on neurodivergent learning strategies:
 
 ## 🤝 Dev
 
-Shreyash Srivatsva
+Shreyash Srivastva
 
 ## 📄 License
 
